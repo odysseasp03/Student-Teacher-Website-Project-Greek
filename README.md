@@ -3,7 +3,6 @@
 [![CSS](https://img.shields.io/badge/CSS-3-blue)](#)
 [![PHP](https://img.shields.io/badge/PHP-7%2B-blue)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-5%2B-orange)](#)
-[![License](https://img.shields.io/badge/License-MIT-green)](#)
 
 A dynamic website (in Greek) for teachers to post daily updates, homework, and educational materials for students.
 
@@ -60,6 +59,11 @@ Open http://localhost/login.php in your browser
 
 ---
 
+## 🤝 Contribution
+- This project does not accept contributions.
+
+---
+
 ## 📌 License
-- Licensed under the [MIT License](LICENSE)
+- This project is not licensed.
 
