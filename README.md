@@ -39,10 +39,25 @@ Update connect.php and other connection files with your DB credentials
 
 Open http://localhost/login.php in your browser
 
-/css           → Stylesheets
-/database      → SQL scripts
-/student_home.php
-/teacher_home.php
-/login.php
-/logout.php
+## 📂 Project Structure
+- `/css` — Stylesheets
+- `/database` — SQL scripts
+- `student_home.php` — Student dashboard
+- `teacher_home.php` — Teacher dashboard
+- `login.php` — Login page
+- `logout.php` — Logout page
+- Other `.php` / `.html` files — Announcements, homework, documents, communication pages
+
+---
+
+## 🛠 Tech Stack
+- **PHP** — Server-side logic
+- **MySQL** — Database
+- **HTML & CSS** — Frontend structure and styling
+- **Bootstrap** — Responsive design (optional)
+
+---
+
+## 📌 License
+- Licensed under the [MIT License](LICENSE)
 
