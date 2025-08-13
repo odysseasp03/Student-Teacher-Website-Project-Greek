@@ -1,6 +1,6 @@
 # Student-Teacher Website Project 🇬🇷
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](#)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](#)
+[![HTML](https://img.shields.io/badge/HTML-5-orange)](#)
+[![CSS](https://img.shields.io/badge/CSS-3-blue)](#)
 [![PHP](https://img.shields.io/badge/PHP-7%2B-blue)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-5%2B-orange)](#)
 [![License](https://img.shields.io/badge/License-MIT-green)](#)
