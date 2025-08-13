@@ -17,7 +17,7 @@ A dynamic website (in Greek) for teachers to post daily updates, homework, and e
 ---
 
 ## 🚀 Quick Start
-1. **𝐂𝐥𝐨𝐧𝐞 𝐭𝐡𝐞 𝐫𝐞𝐩𝐨**
+𝟏. **𝐂𝐥𝐨𝐧𝐞 𝐭𝐡𝐞 𝐫𝐞𝐩𝐨**
    ```bash
    git clone https://github.com/odysseasp03/Student-Teacher-Website-Project-Greek.git
 
